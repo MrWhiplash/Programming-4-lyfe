@@ -1,0 +1,5 @@
+/Users/MereWhipash/Projects/TDExpenses/TDExpenses/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/MereWhipash/Projects/TDExpenses/TDExpenses/bin/Debug/TDExpenses.exe.mdb
+/Users/MereWhipash/Projects/TDExpenses/TDExpenses/bin/Debug/TDExpenses.exe
+/Users/MereWhipash/Projects/TDExpenses/TDExpenses/obj/x86/Debug/TDExpenses.exe
+/Users/MereWhipash/Projects/TDExpenses/TDExpenses/obj/x86/Debug/TDExpenses.exe.mdb

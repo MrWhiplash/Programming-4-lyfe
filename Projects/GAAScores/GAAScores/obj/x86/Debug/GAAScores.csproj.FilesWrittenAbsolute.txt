@@ -1,0 +1,5 @@
+/Users/MereWhipash/Projects/GAAScores/GAAScores/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/MereWhipash/Projects/GAAScores/GAAScores/bin/Debug/GAAScores.exe.mdb
+/Users/MereWhipash/Projects/GAAScores/GAAScores/bin/Debug/GAAScores.exe
+/Users/MereWhipash/Projects/GAAScores/GAAScores/obj/x86/Debug/GAAScores.exe
+/Users/MereWhipash/Projects/GAAScores/GAAScores/obj/x86/Debug/GAAScores.exe.mdb
